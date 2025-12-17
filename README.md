@@ -121,4 +121,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Maintainer: Abhay Vishe
 
-Email / LinkedIn / Twitter: [If you wish to provide]
