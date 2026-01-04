@@ -1,6 +1,12 @@
 EV Demand Analysis Dashboard
 📊 Project Overview
 
+
+
+<img width="1920" height="1032" alt="EV dashboard" src="https://github.com/user-attachments/assets/128abd76-036d-4cfb-9c36-a206c65a846e" />
+
+
+
 This project is an analytics dashboard built to analyze and visualize electric vehicle (EV) demand across India. It brings together geographic, temporal, and segment-level data to enable stakeholders — OEMs, policymakers, investors — to make data-driven decisions about EV adoption, infrastructure, and market strategies.
 
 ✨ Key Features
