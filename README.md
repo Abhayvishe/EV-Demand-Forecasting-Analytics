@@ -125,5 +125,10 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 🔗 Contact
 
-Maintainer: Abhay Vishe
+Maintainer: 
+Abhay Vishe
 
+Aspiring Data Analyst | Power BI | SQL | Python
+
+📎 GitHub: https://github.com/Abhayvishe
+📎 LinkedIn: https://www.linkedin.com/in/abhay-vishe
